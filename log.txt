@@ -1,4 +1,5 @@
-d7d233e (HEAD -> main, origin/main, origin/HEAD) Task 2.2 - refactored volumecredits variable method
+8b43221 (HEAD -> main, origin/main, origin/HEAD) Task 2.3 - added usd method
+d7d233e Task 2.2 - refactored volumecredits variable method
 bbc7e62 Task 2.1 - refactored getamount method
 fa9aacb Task 1.2 - logged commit history
 7483357 Task 1.1 - fixed all checkstyle issues raised by the checkstyle config while still ensuring code passed tests
